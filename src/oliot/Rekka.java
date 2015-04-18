@@ -1,5 +1,11 @@
 package oliot;
 
+/**
+ * Rekka-luokka joka perii Auto-luokan eli Rekka on Auton aliluokka
+ * periminen ilmaistaan avainsanalla extends
+ * @author Ratsala
+ *
+ */
 public class Rekka extends Auto {
 	protected int kuormaus;
 
